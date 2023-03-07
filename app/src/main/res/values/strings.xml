@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="btn_next">Next</string>
+    <string name="error_loading">Error loading.</string>
+    <string name="btn_add">Add</string>
+    <string name="menu_item_added_jokes">Added jokes</string>
+    <string name="joke_added">Joke added.</string>
+</resources>
